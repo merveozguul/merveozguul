@@ -1,4 +1,4 @@
-[![MasterHead](<iframe src="https://giphy.com/embed/TNf5oSRelTeI8" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/TNf5oSRelTeI8">via GIPHY</a></p>)
+[![MasterHead](https://giphy.com/embed/TNf5oSRelTeI8)
 
 <h1 align="center">Hi 👋, I'm Merve Ozgul</h1>
 <h3 align="center">A passionate 2nd year Software Engineering student.</h3>
