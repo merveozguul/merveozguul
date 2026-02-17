@@ -1,7 +1,7 @@
 ![MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXRmNmxhdm5nOTlxODR6cWVkZ28xenhhNXJqb3d5ZTl2MmczOGl0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TNf5oSRelTeI8/giphy.webp)
 
 <h1 align="center">Hi 👋, I'm Merve Ozgul</h1>
-<h3 align="center">A passionate 2nd year Software Engineering student.</h3>
+<h3 align="center">A passionate 3rd year Software Engineering student.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=merveozguul&label=Profile%20views&color=e774d7&style=flat" alt="merveozguul" /> </p>
 
